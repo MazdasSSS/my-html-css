@@ -1,0 +1,61 @@
+a{
+	color: #FBCEB1;
+	font-size: 20px;
+	text-decoration: none;
+}
+li{
+	color: red;
+}
+#nav {
+	height: 110px;
+	background: red; 
+	background: linear-gradient(to right, rgba(255,0,0,0), rgba(100,0,0,1)); 
+}
+img {
+    height: 280px;
+    width: 50%;
+}
+hr{
+	border: white 0px solid;
+}
+.ss {
+    filter: alpha(Opacity=60);
+    opacity: 0.6; 
+ }
+.foto img  {
+	border: 1px solid; /* Рамка вокруг фотографии */
+	padding: 5px; /* Расстояние от картинки до рамки */
+	background: #666; /* Цвет фона */
+	margin-right: 15px; /* Отступ справа */
+	margin-bottom: 15px; /* Отступ снизу */
+}
+.q{
+	color: black;
+	position: absolute;
+	top: 642px;
+    left: 670px
+}
+.fon{
+ background: url(img/gif3.gif);
+}
+.p{ text-align: center;}
+.w{
+	color: black;
+	position: absolute;
+	top: 953px;
+    left: 670px
+}
+.s {
+	color: black;
+	position: absolute;
+	top: 1265px;
+    left: 670px
+}
+.fon1{
+ background: #fcbebb;
+}
+.foot { 
+   padding: 10px; /* Поля вокруг текста */ 
+   color: black; /* Цвет текста */
+   width: 30%; /* Ширина слоя */
+}

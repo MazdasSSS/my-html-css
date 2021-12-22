@@ -1,0 +1,35 @@
+a{
+	color: #FBCEB1;
+	font-size: 23px;
+	text-decoration: none;
+}
+i{color: red;}	
+li{
+	color: red;
+}
+#footer {
+	border: black 2px solid;
+	height: 100px;
+	background: white
+}
+#nav {
+	height: 110px;
+	background: red; 
+	background: linear-gradient(to right, rgba(255,0,0,0), rgba(100,0,0,1)); 
+}
+hr{
+	border: white 0px solid;
+}
+.foto {
+  display: flex;
+}
+.foto :hover{
+  filter: brightness(0.85);
+}
+.foot { 
+   padding: 10px; /* Поля вокруг текста */
+   background: black; /* Цвет фона */
+   color: #fff; /* Цвет текста */
+   width: 30%; /* Ширина слоя */
+}
+
